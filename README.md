@@ -1,10 +1,10 @@
 <!-- https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file -->
 
 ## Hey 👋
-I'm silentesc, 21 years old. While I first messed around with code at 12, I didn't really get serious about it until the lockdown hit when I was 16.
+I'm silentesc, 21 years old, living in Germany. While I first messed around with code when I was 12, I didn't really get serious about it until the lockdown hit when I was 16.
 
-My first project was a discord bot which had only one file with all the logic in it. I was proud when it hit 1000 lines.  
-My second one was a Minecraft PvP Plugin that threw an exception every time a player respawned.
+My first project was a Discord bot which had only one file with all the logic in it. I was proud when it hit 1000 lines.  
+My second one was a Minecraft PvP plugin that threw an exception every time a player respawned.
 
 ## Techstack
 [![Rust](images/batches/RUST.svg)](#)
