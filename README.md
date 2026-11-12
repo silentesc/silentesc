@@ -17,6 +17,7 @@ My second one was a Minecraft PvP plugin that threw an exception every time a pl
 [![CSS](images/batches/CSS.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
 
 [![Vue](images/batches/VUE.svg)](https://vuejs.org)
+[![React](images/batches/REACT.svg)](https://react.dev)
 [![FastAPI](images/batches/FASTAPI.svg)](https://fastapi.tiangolo.com)
 [![Tauri](images/batches/TAURI.svg)](https://tauri.app)
 
@@ -29,7 +30,3 @@ My second one was a Minecraft PvP plugin that threw an exception every time a pl
 [![Git](images/batches/GIT.svg)](https://git-scm.com)
 [![GitHub](images/batches/GITHUB.svg)](https://github.com)
 [![GitLab](images/batches/GITLAB.svg)](https://gitlab.com/)
-
-## Want to learn
-[![React](images/batches/REACT.svg)](https://react.dev)
-[![React Native](images/batches/REACT%20NATIVE.svg)](https://reactnative.dev/)
